@@ -18,7 +18,7 @@
 
 ## 数据集准备
 
-Cityscapes：[官方下载网站]([Download – Cityscapes Dataset (cityscapes-dataset.com)](https://www.cityscapes-dataset.com/downloads/))
+Cityscapes：[Cityscapes官方下载](https://www.cityscapes-dataset.com/downloads/)
 
 CamVid：[Camvid11分类数据集（原图，标签，掩码）](https://featurize.cn/datasets/chris2000520)
 
