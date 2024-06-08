@@ -32,7 +32,7 @@ CamVid：[Camvid11分类数据集（原图，标签，掩码）](https://featuri
 
 ```python
 /CamVid
-	/train
+    /train
     /trainannot
     /val
     /valannot
@@ -76,7 +76,7 @@ python ./tools/test_speed.py
 | 2021 |     CFPNet     |   70.1   |   50    |    3090    | 1024 2048  |  0.55M   |
 | 2021 |   Lite-HRNet   |   72.8   |   24    |    3090    | 1024 2048  |   1.1M   |
 | 2022 |   PP-LiteSeg   |   74.9   | **148** |    3090    | 1024 2048  |  6.33M   |
-| 2024 |    **Ours**    | **74.9** |  81.2   |    3090    | 1024 2048  |   3.4M   |
+| 2024 |    **Ours**    | **75.2** |  81.2   |    3090    | 1024 2048  |   3.4M   |
 
 ## 致谢
 
